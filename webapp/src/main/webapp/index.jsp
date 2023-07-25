@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> I Love tiffany Tebid she founded Linux Chef </h1>
+   <h1> Let the Journey Begin </h1>
 
   
 </form>
